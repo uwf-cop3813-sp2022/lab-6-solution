@@ -1,3 +1,3 @@
-#Skeleton App
+#Lab 6
 
-This is a very basic skeleton express app you can use to build from on labs and projects.
+This is the finished version of lab six. Enjoy.
